@@ -211,7 +211,7 @@ MICAL2 and ARHGAP32 likely participate in parallel pathways involving cytoskelet
 ![Workflow](figures/workflow_diagram.png)
 
 ### Volcano Plot
-![Volcano Plot](figures/volcano_plot.png)
+![Volcano Plot](figures/volcano_plot_final.png)
 
 ### PCA Analysis
 ![PCA](figures/pca_plot.png)
@@ -220,7 +220,7 @@ MICAL2 and ARHGAP32 likely participate in parallel pathways involving cytoskelet
 ![Feature Importance](figures/random_forest_feature_importance.png)
 
 ### Confusion Matrix
-![Confusion Matrix](figures/confusion_matrix.png)
+![Confusion Matrix](figures/confusion_matrix_final.png)
 
 ### Biomarker Validation Heatmap
 ![Heatmap](figures/biomarker_heatmap.png)
