@@ -1,0 +1,5 @@
+Gene,Discovery,Validation_GSE48350,CrossPlatform_GSE33000,RF_Top20,STRING_Network,Biological_Function
+DNM1,Yes,Yes,Yes,Yes,Yes,Synaptic vesicle recycling
+MICAL2,Yes,Yes,Yes,Yes,No,Cytoskeletal remodeling
+THY1,Yes,Yes,Yes,No,Yes,Cell adhesion and neuronal signaling
+ARHGAP32,Yes,Yes,Yes,No,No,Rho-GTPase signaling

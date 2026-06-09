@@ -1,0 +1,17 @@
+
+Random Forest Classification Performance
+
+AUC: 0.912
+Precision: 0.90
+Recall: 0.90
+F1 Score: 0.90
+
+Confusion Matrix
+
+                Predicted Control    Predicted Alzheimer
+
+True Control            12                    1
+
+True Alzheimer           1                    9
+
+Accuracy: 91.3%

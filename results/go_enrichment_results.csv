@@ -1,0 +1,33 @@
+ID,Source,Term ID,Term Name,p_adj (query_1)
+1,GO:MF,GO:0005515,protein binding,4.998e-09
+2,GO:MF,GO:0005200,structural constituent of cytoskeleton,1.661e-05
+3,GO:MF,GO:0005509,calcium ion binding,5.339e-04
+4,GO:MF,GO:0014054,ATP-dependent protein disaggregase activity,1.028e-03
+5,GO:MF,GO:0003924,GTPase activity,1.069e-03
+6,GO:MF,GO:0022853,active monoatomic ion transmembrane transporter activity,1.268e-03
+7,GO:MF,GO:0015078,proton transmembrane transporter activity,1.515e-03
+8,GO:MF,GO:0043168,anion binding,2.857e-02
+9,GO:MF,GO:0005525,GTP binding,3.068e-02
+10,GO:BP,GO:0007399,nervous system development,6.069e-24
+11,GO:BP,GO:0099003,vesicle-mediated transport in synapse,2.652e-11
+12,GO:BP,GO:0042592,homeostatic process,1.089e-07
+13,GO:BP,GO:0046034,ATP metabolic process,7.524e-07
+14,GO:BP,GO:0065008,regulation of biological quality,1.756e-05
+15,GO:BP,GO:0007156,homophilic cell-cell adhesion,2.986e-05
+16,GO:BP,GO:0032253,dense core granule localization,1.758e-04
+17,GO:BP,GO:0031113,regulation of microtubule polymerization,5.507e-04
+18,GO:BP,GO:1902600,proton transmembrane transport,8.674e-04
+19,GO:BP,GO:0071280,cellular response to copper ion,5.621e-03
+20,GO:BP,GO:1990169,stress response to copper ion,7.008e-03
+21,GO:BP,GO:0019646,aerobic electron transport chain,1.431e-02
+22,GO:BP,GO:0042775,mitochondrial ATP synthesis coupled electron transport,2.522e-02
+23,GO:BP,GO:0097479,synaptic vesicle localization,3.351e-02
+24,GO:BP,GO:0021762,substantia nigra development,4.372e-02
+25,GO:CC,GO:0045202,synapse,1.790e-31
+26,GO:CC,GO:0044297,cell body,1.691e-10
+27,GO:CC,GO:1903561,extracellular vesicle,2.309e-09
+28,GO:CC,GO:1902495,transmembrane transporter complex,5.043e-06
+29,GO:CC,GO:0005925,focal adhesion,9.064e-05
+30,GO:CC,GO:0015630,microtubule cytoskeleton,2.600e-04
+31,GO:CC,GO:0099512,supramolecular fiber,1.370e-02
+32,GO:CC,GO:0098803,respiratory chain complex,1.558e-02

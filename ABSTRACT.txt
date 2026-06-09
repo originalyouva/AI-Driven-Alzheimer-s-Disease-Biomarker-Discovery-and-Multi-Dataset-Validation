@@ -1,0 +1,5 @@
+Alzheimer's disease is characterized by progressive neurodegeneration and cognitive decline. In this project, transcriptomic data from the GEO dataset GSE5281 were analyzed to identify candidate biomarkers associated with Alzheimer's disease in the entorhinal cortex. Differential expression analysis, principal component analysis, and Random Forest machine learning were used to identify disease-associated genes.
+
+A six-gene biomarker panel was discovered and subsequently evaluated using an independent validation dataset (GSE48350). Four genes (DNM1, THY1, MICAL2, and ARHGAP32) demonstrated significant differential expression in the validation cohort. Functional interpretation suggested involvement in synaptic transmission, neuronal connectivity, cytoskeletal organization, and neuronal signaling.
+
+These findings support the hypothesis that synaptic dysfunction and neuronal structural alterations are key molecular features of Alzheimer's disease.
